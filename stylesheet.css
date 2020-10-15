@@ -22,7 +22,7 @@ div {
 }
 
 body {
-  font-family: "cursive";
+  font-family: "Rockwell Condensed";
 }
 
 a {
@@ -149,8 +149,9 @@ header {
 }
 
 .content-icon p {
+  font-size: 24px;
   position: absolute;
-  top: 90px;
+  top: 160px;
   width: 100%;
   color: white;
   display: block;
